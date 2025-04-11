@@ -1,6 +1,6 @@
-## Gabriel Souza
 
-<h1 align="center">Hi 👋, I'm Gabriel Souza</h1>
+
+<h1 align="center">👋Gabriel Souza</h1>
 <h3 align="center">Estudante desenvolvendo carreira com programação e criação de automações.</h3>
 
 - 🔭 Atualmente estou desenvolvendo Projetos pessoais afim de desenvolver meus conhecimentos e experiências. [Automação em python](https://github.com/GABRIELWCS/Automacao-De-Comprovantes)
