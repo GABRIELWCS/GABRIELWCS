@@ -17,7 +17,7 @@ Estou aberto a novos desafios e oportunidades para aplicar minhas habilidades e 
 
 - 📫 Contato **bielwillian2@hotmail.com**
 
-- 📄 Experiências [https://www.linkedin.com/in/gabriel-souza-553224247/](https://www.linkedin.com/in/gabriel-souza-553224247/)
+- 📄 Experiências [https://www.linkedin.com/in/gabriel-souza-553224247/](https://www.linkedin.com/in/gabriel-willian-553224247/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
