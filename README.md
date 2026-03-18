@@ -3,7 +3,7 @@
 <h1 align="center">👋 Gabriel Souza</h1>
 
 <h3 align="center">
-Sou um profissional em crescimento na área de Tecnologia da Informação, com foco em Análise de Dados e otimização de processos. Tenho paixão por transformar dados em informações valiosas e aprimorar constantemente minhas habilidades em Python, automação e análise de dados.
+Sou um profissional formado em Análise de Desenvolvimento de Sistemas, com foco em Análise de Dados e otimização de processos. Tenho paixão por transformar dados em informações valiosas e aprimorar constantemente minhas habilidades em Python, automação e análise de dados.
 </h3>
 
 ---
