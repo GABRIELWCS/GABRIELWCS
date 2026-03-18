@@ -11,7 +11,7 @@ Sou um profissional formado em Análise de Desenvolvimento de Sistemas, com foco
 ## 🔭 Atualmente
 Estou desenvolvendo **projetos pessoais** para aprimorar meus conhecimentos e experiências em automação e análise de dados:  
 - [Automação em Python - Comprovantes](https://github.com/GABRIELWCS/Automacao-De-Comprovantes)
-
+- [Dashboard Industrial](https://github.com/GABRIELWCS/Dashboard-Industrial)
 ---
 
 ## 🌱 Aprendizado Atual
