@@ -1,7 +1,7 @@
 
 
 <h1 align="center">👋Gabriel Souza</h1>
-<h3 align="center">Sou um profissional em crescimento na área de Tecnologia da Informação, com foco no desenvolvimento de carreira em Análise de Dados e Ciência de Dados. Tenho um forte interesse em compreender e transformar dados em informações valiosas, buscando constantemente aprimorar minhas habilidades e conhecimentos através de estudos e cursos especializados.
+<h3 align="center">Sou um profissional em crescimento na área de Tecnologia da Informação, com foco no desenvolvimento de carreira em Análise de Dados e Análise de processos. Tenho um forte interesse em compreender e transformar dados em informações valiosas, buscando constantemente aprimorar minhas habilidades e conhecimentos através de estudos e cursos especializados.
 
 Atualmente, estou me aprofundando nas ferramentas e técnicas de análise de dados, aprendendo sobre estatísticas, machine learning e big data, além de explorar as melhores práticas para a tomada de decisões baseadas em dados. Tenho uma mentalidade voltada para resultados e inovação, sempre em busca de novas formas de otimizar processos e agregar valor para as empresas com as quais colaboro.
 
@@ -9,11 +9,11 @@ Estou aberto a novos desafios e oportunidades para aplicar minhas habilidades e 
 
 - 🔭 Atualmente estou desenvolvendo Projetos pessoais afim de desenvolver meus conhecimentos e experiências. [Automação em python](https://github.com/GABRIELWCS/Automacao-De-Comprovantes)
 
-- 🌱 Atualmente estou desenvolvendo meus conhecimentos voltados para **Python, Data Analytics, Banco de dados.**
+- 🌱 Atualmente estou desenvolvendo meus conhecimentos voltados para **Python, Data Analytics, Banco de dados e Automação de processos.**
 
 - 👨‍💻 Meus projetos (Pessoais e acadêmicos). [https://github.com/GABRIELWCS?tab=repositories](https://github.com/GABRIELWCS?tab=repositories)
 
-- 💬 Competências **Python, Biblioteca Pandas, Selenium, OCR e C.**
+- 💬 Competências **Python, Biblioteca Pandas, Selenium, OCR e Streamlit.**
 
 - 📫 Contato **bielwillian2@hotmail.com**
 
