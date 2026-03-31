@@ -37,7 +37,7 @@ Estou desenvolvendo **projetos pessoais** para aprimorar meus conhecimentos e ex
 
 ## 📫 Contato
 - Email: bielwillian2@hotmail.com  
-- LinkedIn: [Gabriel Souza](https://www.linkedin.com/in/gabriel-willian-553224247/)
+- LinkedIn: [Gabriel Souza]([https://www.linkedin.com/in/gabriel-willian-553224247/](https://www.linkedin.com/in/gabriel-souza-553224247/?isSelfProfile=true))
 
 ---
 
