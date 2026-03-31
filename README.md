@@ -43,7 +43,7 @@ Estou desenvolvendo **projetos pessoais** para aprimorar meus conhecimentos e ex
 
 ## 🌐 Conecte-se comigo
 <p align="left">
-  <a href="https://www.linkedin.com/in/gabriel-willian-553224247/" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-souza-553224247/?isSelfProfile=true" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
